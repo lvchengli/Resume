@@ -4,8 +4,6 @@
 }
 
 body {
-    background: #e0e0e0;
-    font-family: 'Helvetica Neue', Helvetica, 'Lucida Grande', Arial, 'Hiragino Sans GB', 微软雅黑, 'WenQuanYi Micro Hei', STHeiti, SimSun, sans-serif;
 }
 
 ul,
@@ -27,7 +25,6 @@ aside li {
     margin-bottom: 10px;
     padding: 10px;
     border-radius: 10px 0 0 10px;
-    background: #00bfa5;
 }
 
 aside a {
@@ -38,6 +35,8 @@ aside a {
     width: 1260px;
     height: 1782px;
     position: relative;
+    margin: 0;
+    box-shadow: none;
 }
 
 .sidebar {
@@ -46,7 +45,6 @@ aside a {
     bottom: 0;
     width: 450px;
     padding: 25px;
-    background: #00bfa5;
     color: #fff;
     line-height: 1.5;
     -webkit-box-sizing: border-box;
@@ -84,7 +82,6 @@ h2 {
 
 .side-info dt {
     font-size: 20px;
-    color: #9f3;
     line-height: 40px;
 }
 
@@ -113,7 +110,6 @@ h2 {
 .skill-bar-wrap {
     height: 17px;
     width: 150px;
-    background: #00796b;
     display: inline-block;
     border-radius: 20px;
 }
@@ -127,14 +123,12 @@ h2 {
 .note {
     text-indent: 2em;
     margin-top: 100px;
-    color: #004d40;
     font-size: 20px;
 }
 
 .qr {
     position: absolute;
     bottom: 40px;
-    color: #004d40;
     font-size: 20px;
     text-align: center;
     width: 400px;
@@ -149,7 +143,6 @@ h2 {
 }
 
 .qr-in a {
-    color: #004d40;
 }
 
 .main {
@@ -158,14 +151,12 @@ h2 {
     width: 810px;
     height: 1782px;
     padding: 15px 20px 0;
-    background: #f0f2f1;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
 
 .main a {
-    color: #4db6ac;
 }
 
 .main-info > li {
@@ -174,7 +165,6 @@ h2 {
 
 .main-info dt {
     font-size: 26px;
-    color: #00796b;
     line-height: 30px;
     border-bottom: 1px solid #00796b;
     margin: 0 0 15px -5px;
@@ -193,7 +183,6 @@ h2 {
 
 h3 {
     font-size: 20px;
-    color: #004d40;
     margin: 0 0 15px 5px;
 }
 
@@ -221,7 +210,6 @@ h5 {
     height: 14px;
     width: 14px;
     border-radius: 100%;
-    background: #00796b;
     float: left;
     position: absolute;
     left: -28px;
@@ -229,7 +217,6 @@ h5 {
 }
 
 .exp {
-    border-left: 2px solid #00796b;
     margin-left: 15px;
 }
 
