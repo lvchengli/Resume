@@ -2,6 +2,10 @@
 
 [html.love](http://html.love)
 
+<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/ucdjQF7wcNNiWY9mCEpAeGLz/DIYgod/Resume'>
+  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/ucdjQF7wcNNiWY9mCEpAeGLz/DIYgod/Resume.svg' />
+</a>
+
 ## Introduction
 
 风格参考 @Ovilia @joyeecheung @lishengzxc
